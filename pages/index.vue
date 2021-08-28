@@ -21,6 +21,8 @@
 </template>
 
 <script lang="ts">
+// Typewriter effects
+// https://css-tricks.com/snippets/css/typewriter-effect/
 import Vue from "vue";
 
 export default Vue.extend({
